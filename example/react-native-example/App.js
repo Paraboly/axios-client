@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { View, Text } from "react-native";
-import { Api } from "./lib/src/index";
+import { Api } from "@paraboly/axios-client";
 
 export default class App extends Component {
   constructor(props) {
