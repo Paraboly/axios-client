@@ -1,31 +1,23 @@
 {
-  "name": "react-native-apple-card-views",
-  "version": "0.0.13",
-  "description": "Customizable and perfect clone of Apple, App Store Card Views for React Native.",
+  "name": "@paraboly/axios-client",
+  "version": "0.0.1",
+  "description": "Axios-Client ready to use library.",
   "keywords": [
-    "apple",
-    "apple-card",
-    "card",
-    "view",
-    "card-view",
-    "apple-card-view",
+    "axios",
+    "client",
+    "api-client",
+    "axios-client",
     "react-native",
-    "icons",
     "javascript",
-    "ui-lib",
     "rn"
   ],
   "homepage": "https://www.freakycoder.com",
-  "bugs": "https://github.com/WrathChaos/react-native-apple-card-views/issues",
+  "bugs": "https://github.com/Paraboly/axios-client/issues",
   "main": "./lib/src/index.js",
-  "repository": "git@github.com:WrathChaos/react-native-apple-card-views.git",
+  "repository": "git@github.com:Paraboly/axios-client.git",
   "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
   "license": "MIT",
   "peerDependencies": {
-    "react": ">= 16.x",
-    "react-native": ">= 0.55.x",
-    "react-native-androw": ">= 0.0.33",
-    "react-native-linear-gradient": ">= 2.5.6",
-    "react-native-material-ripple": ">= 0.8.0"
+    "axios": ">= 0.19.0"
   }
 }
