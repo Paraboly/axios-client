@@ -18,8 +18,6 @@ npm i @paraboly/axios-client
 
 # Usage
 
-## AppleCard Usage
-
 ```js
 import { Api } from "@paraboly/axios-client";
 // Setup One Time
