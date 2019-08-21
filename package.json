@@ -1,0 +1,31 @@
+{
+  "name": "react-native-apple-card-views",
+  "version": "0.0.13",
+  "description": "Customizable and perfect clone of Apple, App Store Card Views for React Native.",
+  "keywords": [
+    "apple",
+    "apple-card",
+    "card",
+    "view",
+    "card-view",
+    "apple-card-view",
+    "react-native",
+    "icons",
+    "javascript",
+    "ui-lib",
+    "rn"
+  ],
+  "homepage": "https://www.freakycoder.com",
+  "bugs": "https://github.com/WrathChaos/react-native-apple-card-views/issues",
+  "main": "./lib/src/index.js",
+  "repository": "git@github.com:WrathChaos/react-native-apple-card-views.git",
+  "author": "Kuray (FreakyCoder) <kurayogun@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">= 16.x",
+    "react-native": ">= 0.55.x",
+    "react-native-androw": ">= 0.0.33",
+    "react-native-linear-gradient": ">= 2.5.6",
+    "react-native-material-ripple": ">= 0.8.0"
+  }
+}
