@@ -1,6 +1,6 @@
 {
   "name": "@paraboly/axios-client",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "Axios-Client ready to use library.",
   "keywords": [
     "axios",
